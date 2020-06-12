@@ -1,0 +1,14 @@
+{
+  "name": "kaspam",
+  "version": "1.0.0",
+  "description": "A small program to flood bots into Kahoot games",
+  "main": "kaspam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kahoot.js-updated": "^1.4.22"
+  }
+}
